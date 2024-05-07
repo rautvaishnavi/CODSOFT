@@ -1,0 +1,31 @@
+install docker extenstion
+
+ after that open folder te folder select krun madhe creatr karaychi Dockerfile D capti apoap extension yeil and enter
+
+nntr js file create karaychi  
+content: console.log("hello");
+
+https://bit.ly/3mzLrYp
+yat ahe content
+
+tri 
+content of docker file :
+
+FROM node:alpine
+COPY . /partb
+CMD node /partb/gg.js
+
+content of gg.js file:
+
+console.log("Hello");
+
+
+mg in the terminal follo commands:
+
+docker --version
+
+ node gg.js  
+
+docker build -t partb .
+
+docker images

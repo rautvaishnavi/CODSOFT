@@ -1,0 +1,24 @@
+mkdir parta
+
+cd parta
+
+git --version
+ 
+after this you have to login your GitHub and create repository
+ after this create file under part1 txt file
+
+git init
+
+git add .
+
+git status
+
+copy that http wali link 
+
+git remote add origin "https://github.com/rautvaishnavi/gurukul.git"
+
+git commit -m "hello"
+
+git status
+
+git push -u origin master
