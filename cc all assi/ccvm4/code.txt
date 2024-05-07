@@ -1,0 +1,19 @@
+ifconfig
+
+ls
+
+touch test.txt
+
+ls
+
+nano test.txt
+
+ctrl+x+y+enter
+
+ls
+
+cat test.txt
+
+scp test.txt vagrant@ip:home/vagrant
+
+

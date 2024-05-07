@@ -1,0 +1,7 @@
+gsdk mdhe tKAYCHE cmd:
+
+
+cd "C:\Users\vaish\OneDrive\Documents\cc"
+      folder path
+
+index.html
